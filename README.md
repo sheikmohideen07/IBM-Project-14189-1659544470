@@ -3,10 +3,10 @@
 # Early Detection of Chronic Kidney Disease using Machine Learning
 
 
-## Category: Cloud App Development
+## Category: Machine Learning
 
 
-**Batch Name :** B3-5ME
+**Batch Name :** B3-3M5E
 
 ---
 
