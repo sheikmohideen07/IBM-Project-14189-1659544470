@@ -10,7 +10,7 @@
 
 ---
 
-**Team ID :** PNT2022TMID38912
+**Team ID :** PNT2022TMID04262
 
 **Team Size :** 4
 
@@ -23,9 +23,9 @@
 **Team member :** Viswa
 
 ---
-**Industry Mentor(s) Name :** lalitha
+**Industry Mentor(s) Name :** Lalitha Gayathri
 
-**Faculty Mentor(s) Name :** K S sardha
+**Faculty Mentor(s) Name :** K.R.SARADHA
 
 ---
 
