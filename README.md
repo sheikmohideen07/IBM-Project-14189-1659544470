@@ -20,7 +20,7 @@
 
 **Team member :** sheik Mohideen
 
-**Team member :** Viswa
+**Team member :** Vishwa
 
 ---
 **Industry Mentor(s) Name :** Lalitha Gayathri
